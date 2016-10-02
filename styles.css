@@ -1,6 +1,7 @@
 body{
 	
 		font-family: 'Josefin Slab', serif;
+		font-size: 14pt;
 }
 
 h1,h2,h3{
@@ -45,5 +46,10 @@ h2{
 
 .progress-bar{
 	background-color: #607D8B;
+	
 
+}
+
+skillLevel {
+		font-size: 12pt;
 }
