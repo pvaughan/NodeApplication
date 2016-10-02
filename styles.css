@@ -4,8 +4,21 @@ body{
 }
 
 h1,h2,h3{
-font-family: 'Jura', sans-serif;
+	font-family: 'Jura', sans-serif;
+	margin-top: 0px;
 }
+
+
+h1, .jumbotron h1, .jumbotron .h1
+{
+	color: #90A4AE;
+}
+
+h2{
+	color: #90A4AE;
+}
+
+
 
 
 .profile-img {
@@ -21,6 +34,16 @@ font-family: 'Jura', sans-serif;
     margin-bottom: 5px;
 }
 
-.stick-top{
-	margin-top: 0px;
+.nopadding{
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.jumbotron{
+	background-color: #ECEFF1;
+}
+
+.progress-bar{
+	background-color: #607D8B;
+
 }
